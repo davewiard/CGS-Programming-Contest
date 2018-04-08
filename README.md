@@ -1,11 +1,11 @@
 # CGS-Programming-Contest
 
-The CGS Programming Contest was held on April 7, 2018 at the Catlin Gabel School
-in Beaverton, OR. The contest was comprised of eleven teams raning from
-intermediate to advanced level. Each team was given one sample problem as a
-warm-up to solve before the main contest began. After the sample problem was
-solved, each team was given a set of fifteen problems and given three hours to
-solve as many as possible.
+The [Catlin Gabel School Programming Contest](https://teamscode.com/contests/spring-cgs-programming-contest/)
+was held on April 7, 2018 at the Catlin Gabel School in Beaverton, OR. The
+contest was comprised of eleven teams ranging from intermediate to advanced
+level. Each team was given one sample problem as a warm-up to solve before the
+main contest began. After the sample problem was solved, each team was given a
+set of fifteen problems and given three hours to solve as many as possible.
 
 ## Scoring ##
 
