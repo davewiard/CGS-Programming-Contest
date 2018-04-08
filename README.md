@@ -7,6 +7,13 @@ level. Each team was given one sample problem as a warm-up to solve before the
 main contest began. After the sample problem was solved, each team was given a
 set of fifteen problems and given three hours to solve as many as possible.
 
+## Problems ##
+
+Each problem had a single text input file with associated output. Once the
+team was confident their program generated the proper results they submitted
+their program for judgment. The judges brought a thumb drive with a different
+input file that generated different results.
+
 ## Scoring ##
 
 Each problem that was solved was given points based on the number of attempts
